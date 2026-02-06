@@ -1,0 +1,8 @@
+# cat=Settings/O; type=string; label= Peertube Server
+peertubeServer = https://your.peertube.server/
+# cat=Settings/O; type=string; label=  Display Type (iframe|javascript)
+display = iframe
+# cat=Settings/O; type=int; label= Width thumbnail
+width = 800
+# cat=Settings/O; type=int; label= Height thumbnail
+height = 450
